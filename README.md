@@ -12,8 +12,4 @@ uv run langflow run
 
 ## Examples
 
-### Marketing
-
-Workflow for Increasing User Click-Through Rate (CTR)
-
 - TBU
